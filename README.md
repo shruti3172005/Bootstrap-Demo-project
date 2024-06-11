@@ -1,2 +1,2 @@
 # Bootstrap-Demo-project
-this is my first git repository.
+This is My First Git Repository.
